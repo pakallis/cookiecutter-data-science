@@ -7,6 +7,8 @@ __pycache__/
 
 # Images
 *.png
+# Python pickled files
+*.pickle
 
 # Distribution / packaging
 .Python
